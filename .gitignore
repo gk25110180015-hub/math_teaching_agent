@@ -1,0 +1,11 @@
+.venv/
+.tools/
+.uv-cache/
+__pycache__/
+.pytest_cache/
+.env
+workspace/
+reference_data/
+reference_index/
+reports/evidence/
+*.db*
